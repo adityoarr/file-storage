@@ -2,35 +2,35 @@
     "list-doa": [
         {
             "nama": "Asmaul Husna",
-            "source": "asmaul-husna.json"
+            "source": "https://raw.githubusercontent.com/adityoarr/file-storage/refs/heads/main/doa-list/asmaul-husna.json"
         },
         {
             "nama": "Dzikir",
-            "source": "dzikir.json"
+            "source": "https://raw.githubusercontent.com/adityoarr/file-storage/refs/heads/main/doa-list/dzikir.json"
         },
         {
             "nama": "Yasin",
-            "source": "yasin.json"
+            "source": "https://raw.githubusercontent.com/adityoarr/file-storage/refs/heads/main/doa-list/yasin.json"
         },
         {
             "nama": "Ayat Seribu Dinar",
-            "source": "ayat-seribu-dinar.json"
+            "source": "https://raw.githubusercontent.com/adityoarr/file-storage/refs/heads/main/doa-list/ayat-seribu-dinar.json"
         },
         {
             "nama": "Shalawat Nariyah",
-            "source": "sholawat-nariyah.json"
+            "source": "https://raw.githubusercontent.com/adityoarr/file-storage/refs/heads/main/doa-list/sholawat-nariyah.json"
         },
         {
             "nama": "Shalawat Munjiyat",
-            "source": "shalawat-munjiyat.json"
+            "source": "https://raw.githubusercontent.com/adityoarr/file-storage/refs/heads/main/doa-list/shalawat-munjiyat.json"
         },
         {
             "nama": "Al-Waqi'ah",
-            "source": "al-waqiah.json"
+            "source": "https://raw.githubusercontent.com/adityoarr/file-storage/refs/heads/main/doa-list/al-waqiah.json"
         },
         {
             "nama": "Al-Mulk",
-            "source": "al-mulk.json"
+            "source": "https://raw.githubusercontent.com/adityoarr/file-storage/refs/heads/main/doa-list/al-mulk.json"
         }
     ],
     "sumber": [
