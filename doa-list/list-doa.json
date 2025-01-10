@@ -1,0 +1,43 @@
+{
+    "list-doa": [
+        {
+            "nama": "Asmaul Husna",
+            "source": "asmaul-husna.json"
+        },
+        {
+            "nama": "Dzikir",
+            "source": "dzikir.json"
+        },
+        {
+            "nama": "Yasin",
+            "source": "yasin.json"
+        },
+        {
+            "nama": "Ayat Seribu Dinar",
+            "source": "ayat-seribu-dinar.json"
+        },
+        {
+            "nama": "Shalawat Nariyah",
+            "source": "sholawat-nariyah.json"
+        },
+        {
+            "nama": "Shalawat Munjiyat",
+            "source": "shalawat-munjiyat.json"
+        },
+        {
+            "nama": "Al-Waqi'ah",
+            "source": "al-waqiah.json"
+        },
+        {
+            "nama": "Al-Mulk",
+            "source": "al-mulk.json"
+        }
+    ],
+    "sumber": [
+        "https://equran.id/apidev/v2",
+        "https://islam.nu.or.id/",
+        "https://jatim.nu.or.id/keislaman/shalawat-munjiyat-arab-latin-terjemah-lengkap-dengan-sejarah-dan-keutamaannya-2SHWC",
+        "https://jabar.nu.or.id/ubudiyah/shalawat-nariyah-arab-dan-terjemahan-lengkap-dengan-keutamaannya-lHxse",
+        "https://bsimaslahat.or.id/bacaan-ayat-1000-dinar-arab-latin-dan-terjemahannya/#:~:text=Ayat%20Seribu%20Dinar,-Bacaan%20ayat%20seribu&text=Wa%20may%20yattaqillaha%20yaj%20al,akan%20membukakan%20jalan%20keluar%20baginya."
+    ]
+}
